@@ -5,7 +5,7 @@
   "dependencies": {
     "i": "^0.3.6",
     "mockdata": "0.0.3",
-    "npm": "^6.1.0",
+    "npm": "^6.14.6",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-pure-css-modal": "^1.0.3",
