@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "mockdata": "0.0.3",
     "npm": "^6.1.0",
     "react": "^16.4.0",
